@@ -15,3 +15,4 @@ export LD_PRELOAD=/the/directory/where/you/compiled
 ${@}
 unset LD_PRELOAD
 ```
+And chmod 755 it so its executable.
